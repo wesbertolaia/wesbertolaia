@@ -4,7 +4,7 @@
 
 ### 👨🏻‍💻 About Me
 
-- I'm a Full Stack Developer transitioning to be a QA Tester.
+- I'm a Full Stack Developer thinking about transitioning to be a QA Tester.
 
 ### 💻 I love working with
 
